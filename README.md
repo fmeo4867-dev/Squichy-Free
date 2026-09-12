@@ -1,4 +1,4 @@
-<div align="center">
+https://github.com/DEVPRIMIS/Squichy-Free.git<div align="center">
 
 <a href="https://github.com/DEVPRIMIS/Squichy-Free">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2800&pause=1000&color=2F7CFF&center=true&vCenter=true&width=650&lines=Squichy+Free;By+DsPrimis" alt="Squichy Free - By DsPrimis">
@@ -40,9 +40,9 @@
 
 ---
 
-## ✦ About Squichy Free
+## ✦ EGOISTIC BUG BOT Free
 
-**Squichy Free** is a free WhatsApp bug bot project created by **DsPrimis**.
+**EGOISTIC Free** is a free WhatsApp bug bot project created by **DsPrimis**.
 
 The goal is simple: provide a starting point that anyone can download, customize, and use to create their **own WhatsApp bug bot**.
 
@@ -139,7 +139,7 @@ Every star and fork helps the project reach more people.
 
 ## ⚠️ Disclaimer
 
-Squichy Free is provided as a free development project for educational, experimental, and customization purposes.
+egoistic Free is provided as a free development project for educational, experimental, and customization purposes.
 
 You are responsible for how you modify and use the project. Always respect WhatsApp's terms of service, applicable laws, and the privacy of other users.
 
@@ -147,7 +147,7 @@ You are responsible for how you modify and use the project. Always respect Whats
 
 <div align="center">
 
-### Squichy Free
+#### egoistic Free
 
 <em>Built to be downloaded. Made to be customized.</em>
 
